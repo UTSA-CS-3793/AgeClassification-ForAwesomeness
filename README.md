@@ -49,8 +49,8 @@ There are keras UserWarnings but the code will run and there are futureWarning c
 The code will still run. 
 
 ### Team Members
-Lauro Perez Jr.
-Moyosore Akinrinmade Afolasade
-Justin De Luna
-Jocelyn Rocha
+Lauro Perez Jr.,
+Moyosore Akinrinmade Afolasade,
+Justin De Luna,
+Jocelyn Rocha,
 Shawn Roberts
