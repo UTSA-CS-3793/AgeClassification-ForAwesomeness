@@ -47,3 +47,10 @@ python AISIMTrain.py
 AISIMTest.py is used to test/predict using the model. The AISIMTrain.py builds the model using the images folder. 
 There are keras UserWarnings but the code will run and there are futureWarning conversion on float vs np.float.
 The code will still run. 
+
+### Team Members
+Lauro Perez Jr.
+Moyosore Akinrinmade Afolasade
+Justin De Luna
+Jocelyn Rocha
+Shawn Roberts
