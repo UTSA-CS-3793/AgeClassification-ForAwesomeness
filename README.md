@@ -50,7 +50,7 @@ The code will still run.
 
 ### Team Members
 Lauro Perez Jr.,
-Moyosore Akinrinmad,
+Moyosore Akinrinmade,
 Justin De Luna,
 Jocelyn Rocha,
 Shawn Roberts
